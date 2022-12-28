@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Desktop\\ChessUI.Desktop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\APILibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\APILibrary.csproj",
+        "projectName": "APILibrary",
+        "projectPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\APILibrary.csproj",
+        "packagesPath": "C:\\Users\\44785\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\44785\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/DemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/MatrixDemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/VectorDemoFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Desktop\\ChessUI.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Desktop\\ChessUI.Desktop.csproj",
+        "projectName": "ChessUI.Desktop",
+        "projectPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Desktop\\ChessUI.Desktop.csproj",
+        "packagesPath": "C:\\Users\\44785\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Desktop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\44785\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/DemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/MatrixDemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/VectorDemoFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\ChessUI.Library.csproj": {
+                "projectPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\ChessUI.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Caliburn.Micro": {
+              "target": "Package",
+              "version": "[4.0.173, )"
+            },
+            "Caliburn.Micro.Core": {
+              "target": "Package",
+              "version": "[4.0.173, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\ChessUI.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\ChessUI.Library.csproj",
+        "projectName": "ChessUI.Library",
+        "projectPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\ChessUI.Library.csproj",
+        "packagesPath": "C:\\Users\\44785\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\ChessUI.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\44785\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/DemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/MatrixDemoFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/byzstorm1103/bystorm1103/_packaging/VectorDemoFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\APILibrary.csproj": {
+                "projectPath": "C:\\Users\\44785\\source\\repos\\ChessFrontEnd\\APILibrary\\APILibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Caliburn.Micro": {
+              "target": "Package",
+              "version": "[4.0.173, )"
+            },
+            "Caliburn.Micro.Core": {
+              "target": "Package",
+              "version": "[4.0.173, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

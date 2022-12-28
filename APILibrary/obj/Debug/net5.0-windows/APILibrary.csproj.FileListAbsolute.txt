@@ -1,0 +1,12 @@
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\bin\Debug\net5.0-windows\APILibrary.deps.json
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\bin\Debug\net5.0-windows\APILibrary.dll
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\bin\Debug\net5.0-windows\ref\APILibrary.dll
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\bin\Debug\net5.0-windows\APILibrary.pdb
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.csproj.AssemblyReference.cache
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.AssemblyInfoInputs.cache
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.AssemblyInfo.cs
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.csproj.CoreCompileInputs.cache
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.dll
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\ref\APILibrary.dll
+C:\Users\44785\source\repos\ChessFrontEnd\APILibrary\obj\Debug\net5.0-windows\APILibrary.pdb

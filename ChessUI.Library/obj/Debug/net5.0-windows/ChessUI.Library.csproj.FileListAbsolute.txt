@@ -1,0 +1,15 @@
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.csproj.AssemblyReference.cache
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.AssemblyInfoInputs.cache
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.AssemblyInfo.cs
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.csproj.CoreCompileInputs.cache
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\ChessUI.Library.deps.json
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\ChessUI.Library.dll
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\ref\ChessUI.Library.dll
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\ChessUI.Library.pdb
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\APILibrary.dll
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\bin\Debug\net5.0-windows\APILibrary.pdb
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.csproj.CopyComplete
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.dll
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ref\ChessUI.Library.dll
+C:\Users\44785\source\repos\ChessFrontEnd\ChessUI.Library\obj\Debug\net5.0-windows\ChessUI.Library.pdb
